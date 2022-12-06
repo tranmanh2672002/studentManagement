@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 20020001,
+      "name": "Nguyễn Văn A",
+      "birthday": "11/5/2002",
+      "address": "Hà Nội"
+    },
+    {
+      "id": 20020002,
+      "name": "Nguyễn Văn B",
+      "birthday": "11/5/2002",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": 20020003,
+      "name": "Đặng Trung Kiên",
+      "birthday": "13/11/2002",
+      "address": "Thái Nguyên"
+    },
+    {
+      "id": 20020004,
+      "name": "Nguyễn Công Khải",
+      "birthday": "24/03/2002",
+      "address": "Thái Bình"
+    },
+    {
+      "id": 20020005,
+      "name": "Trần Văn Mạnh",
+      "birthday": "26/07/2002",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": 20020006,
+      "name": "Trần Minh Quang",
+      "birthday": "11/11/2002",
+      "address": "Hà Nội"
+    },
+    {
+      "id": 20020007,
+      "name": "Trần Minh Huy",
+      "birthday": "11/11/2002",
+      "address": "Nam Định"
+    }
+  ]
+}

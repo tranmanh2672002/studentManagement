@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
